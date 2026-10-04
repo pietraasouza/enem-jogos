@@ -234,7 +234,7 @@ elif jogo == "07. Desenvolvimento 2: Argumentação por Contraste":
 # 08. CONECTIVOS INTERPARÁGRAFOS
 # =============================================================================
 elif jogo == "08. Conectivos Interparágrafos (Coesão)":
-    st.subheader("🔗 08. Conectores Interparágrafos (Competência 4)":
+    st.subheader("🔗 08. Conectores Interparágrafos (Competência 4)")
     st.success("🎯 **O que fazer:** Selecione o parágrafo para escolher o conector de transição ideal.")
     
     html = """
