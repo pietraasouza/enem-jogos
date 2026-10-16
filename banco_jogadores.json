@@ -1,0 +1,16 @@
+{
+    "jogadores": {
+        "pih": {
+            "nome_exibicao": "pih",
+            "avatar": "☕",
+            "foto_base64": null,
+            "bio": "Aprovação no ENEM!",
+            "xp": 100,
+            "moedas": 30,
+            "ofensiva": 1,
+            "jogos_concluidos": 1,
+            "acertos": 1,
+            "erros": 3
+        }
+    }
+}
