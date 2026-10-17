@@ -1,0 +1,17 @@
+{
+    "jogadores": {
+        "pih": {
+            "nome_exibicao": "pih",
+            "avatar": "🌍",
+            "foto_base64": null,
+            "bio": "Explorador do Planeta Terra!",
+            "xp": 0,
+            "moedas": 0,
+            "ofensiva": 1,
+            "jogos_concluidos": 0,
+            "acertos": 0,
+            "erros": 0,
+            "diario": []
+        }
+    }
+}
